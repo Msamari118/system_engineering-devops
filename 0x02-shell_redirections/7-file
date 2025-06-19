@@ -1,3 +1,3 @@
 #!/bin/bash
-echo 'Best School' > '*\\'Best School'\\*\$\?\*\*\*\*\*:)\
->>>>>>> Add 7-file script that creates a special file with text 'Best School'
+echo "Best School" > '*\\'"Best School"'\\*$\?*****:)'
+
