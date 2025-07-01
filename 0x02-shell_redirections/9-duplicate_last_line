@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 iacta >> iacta
+awk "NR==$(wc -l < iacta)-1" iacta >> iacta
