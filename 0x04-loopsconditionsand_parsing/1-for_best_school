@@ -1,4 +1,13 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 10 times
+<<<<<<< HEAD
 for i in {1..10}; do echo "Best School"; done
 
+=======
+
+for i in {
+1..10}
+do
+  echo "Best School"
+done
+>>>>>>> c450369d946496050a114d3a415c5a7d0dd0527b
