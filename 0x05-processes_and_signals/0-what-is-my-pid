@@ -1,4 +1,4 @@
-#!/bin/bash
-# Displays this script's PID
-echo $$  
+#!/usr/bin/env bash
+# This script displays its own PID
 
+echo $$
