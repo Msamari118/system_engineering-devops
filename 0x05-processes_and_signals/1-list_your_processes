@@ -1,0 +1,4 @@
+#!/bin/bash
+# List all processes in a user-oriented, hierarchical format
+ps -auxf
+

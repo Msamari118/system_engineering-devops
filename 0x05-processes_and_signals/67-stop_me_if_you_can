@@ -1,0 +1,5 @@
+#!/bin/bash
+# Stop 7-highlander process (no pkill/killall)
+PID=$(pgrep -f 7-highlander)
+[ -n "$PID" ] && kill -TERM "$PID"
+
